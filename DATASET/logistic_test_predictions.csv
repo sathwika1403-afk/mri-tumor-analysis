@@ -1,0 +1,330 @@
+Actual,Predicted
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Meningioma
+Meningioma,Meningioma
+Meningioma,Pituitary tumor
+Pituitary tumor,Meningioma
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Glioma,Glioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Glioma
+Pituitary tumor,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Glioma
+Meningioma,Meningioma
+Pituitary tumor,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Glioma,Pituitary tumor
+Meningioma,Glioma
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Meningioma,Meningioma
+Glioma,Glioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Pituitary tumor
+Glioma,Pituitary tumor
+Glioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Glioma
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Glioma
+Pituitary tumor,Meningioma
+Meningioma,Pituitary tumor
+Pituitary tumor,Glioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Pituitary tumor
+Glioma,Glioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Glioma
+Meningioma,Glioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Glioma
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Glioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Glioma
+Glioma,Glioma
+Pituitary tumor,Pituitary tumor
+Glioma,Pituitary tumor
+Pituitary tumor,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Pituitary tumor
+Pituitary tumor,Meningioma
+Meningioma,Pituitary tumor
+Glioma,Pituitary tumor
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Glioma
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Meningioma
+Meningioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Meningioma
+Meningioma,Meningioma
+Glioma,Pituitary tumor
+Glioma,Meningioma
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Pituitary tumor
+Glioma,Pituitary tumor
+Glioma,Glioma
+Meningioma,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Glioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Glioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Glioma
+Glioma,Glioma
+Pituitary tumor,Meningioma
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Meningioma
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Meningioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Pituitary tumor
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Meningioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Glioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Glioma
+Glioma,Pituitary tumor
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Glioma
+Glioma,Pituitary tumor
+Glioma,Glioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Glioma
+Meningioma,Meningioma
+Pituitary tumor,Glioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Pituitary tumor
+Pituitary tumor,Glioma
+Pituitary tumor,Pituitary tumor
+Meningioma,Pituitary tumor
+Meningioma,Pituitary tumor
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Glioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Pituitary tumor
+Meningioma,Meningioma
+Glioma,Glioma
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Glioma,Pituitary tumor
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Meningioma,Meningioma
+Meningioma,Pituitary tumor
+Glioma,Pituitary tumor
+Glioma,Pituitary tumor
+Glioma,Glioma
+Meningioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma
+Glioma,Pituitary tumor
+Glioma,Meningioma
+Meningioma,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Pituitary tumor,Pituitary tumor
+Glioma,Meningioma

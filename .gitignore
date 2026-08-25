@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated/output files
+outputs/
+
+# Large/raw dataset files
+DATASET/classification/
+DATASET/Segmentation/
+
+# Temporary files
+*.tmp
+*.log
+
+# Local/Anaconda project files
+.virtual_documents/
+anaconda_projects/
