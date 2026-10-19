@@ -24,7 +24,7 @@ outputs/
 
 # Large/raw dataset files
 DATASET/classification/
-DATASET/Segmentation/
+DATASET/segmentation/
 
 # Temporary files
 *.tmp
